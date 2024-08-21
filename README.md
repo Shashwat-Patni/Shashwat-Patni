@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shashwat-Patni
--     **Currently a Computer science Sophomore at Bits Pilani KK Birla Goa Campus**
+- **_Currently a Computer science Sophomore at Bits Pilani KK Birla Goa Campus_**
 - 👀 I’m interested in Competitive coding and problem solving
 - 🌱 I’m currently learning JAVA C++ OOPS and Degital design
 - 💞️ I’m looking to collaborate on any projects problems which help me learn and explore domains of CS
